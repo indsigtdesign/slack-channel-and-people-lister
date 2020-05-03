@@ -1,0 +1,1688 @@
+{
+  "general": {
+    "id": "C04D87V1W",
+    "name": "general",
+    "created": 1429108694,
+    "creator": "U04D87UTL",
+    "topic": "Things related to actual work. This channel is to update the rest of the studio, things like studio meeting notes and follow ups around what’s going on in the CIID locations.\n\nVirtual Lounge: <https://meet.google.com/kkg-saem-juj>",
+    "purpose": "This channel is for team-wide communication and announcements. All team members are in this channel.\n\nVirtual Lounge: <https://meet.google.com/kkg-saem-juj>",
+    "num_members": 31,
+    "members": [
+      {
+        "id": "U04ESF7NZ",
+        "alias": "francesca",
+        "name": "Francesca Desmarais",
+        "admin": true
+      },
+      {
+        "id": "U04GLEY9A",
+        "alias": "calle",
+        "name": "Calle Nordenskjöld",
+        "admin": true
+      },
+      {
+        "id": "U051HC0RQ",
+        "alias": "simon",
+        "name": "Simon Herzog",
+        "admin": false
+      },
+      {
+        "id": "U0A1N3C2F",
+        "alias": "peterok",
+        "name": "Peter Kuhberg",
+        "admin": true
+      },
+      {
+        "id": "U0A1N7GAV",
+        "alias": "alie",
+        "name": "alie",
+        "admin": false
+      },
+      {
+        "id": "U0B215TBP",
+        "alias": "simona",
+        "name": "simona",
+        "admin": false
+      },
+      {
+        "id": "U0BA7T7SB",
+        "alias": "annelie",
+        "name": "annelie",
+        "admin": false
+      },
+      {
+        "id": "U29KE4S5D",
+        "alias": "jan",
+        "name": "Jan",
+        "admin": false
+      },
+      {
+        "id": "U5CG37Z7T",
+        "alias": "blair_j",
+        "name": "Blair Johnsrude",
+        "admin": false
+      },
+      {
+        "id": "U7FLEC8MP",
+        "alias": "a.farias",
+        "name": "ana",
+        "admin": false
+      },
+      {
+        "id": "U86R0S2F9",
+        "alias": "m.skau",
+        "name": "Martin Skau",
+        "admin": true
+      },
+      {
+        "id": "UAP96S2JC",
+        "alias": "e.fagundez",
+        "name": "Erika Kriznjak Fagundez",
+        "admin": false
+      },
+      {
+        "id": "UB2Q3NM8X",
+        "alias": "e.marinopoulou",
+        "name": "Electra Marinopoulou",
+        "admin": false
+      },
+      {
+        "id": "UB6UEAB7H",
+        "alias": "m.bottger",
+        "name": "Moises Bottger",
+        "admin": false
+      },
+      {
+        "id": "UC7BRP2QJ",
+        "alias": "j.svenning",
+        "name": "Jesper Svenning",
+        "admin": false
+      },
+      {
+        "id": "UCQ5SG8R2",
+        "alias": "a.singh",
+        "name": "Arunima Singh",
+        "admin": false
+      },
+      {
+        "id": "UDA5MDPPA",
+        "alias": "e.casciano",
+        "name": "Elisa Casciano",
+        "admin": false
+      },
+      {
+        "id": "UDGB29X16",
+        "alias": "m.seyfried",
+        "name": "Monika Seyfried",
+        "admin": false
+      },
+      {
+        "id": "UDXHVNM4K",
+        "alias": "m.harrestrup",
+        "name": "Mette Harrestrup",
+        "admin": false
+      },
+      {
+        "id": "UGUTFA2RE",
+        "alias": "s.haaramaki",
+        "name": "Sanna Isabella Haaramäki",
+        "admin": false
+      },
+      {
+        "id": "UKABM6S15",
+        "alias": "c.yanardag",
+        "name": "Can Yanardag",
+        "admin": false
+      },
+      {
+        "id": "UKVQM58AW",
+        "alias": "f.azad",
+        "name": "fahmida",
+        "admin": false
+      },
+      {
+        "id": "UMBH7R8JD",
+        "alias": "p.mau",
+        "name": "pernille",
+        "admin": false
+      },
+      {
+        "id": "UNEV0AZNC",
+        "alias": "i.edwards",
+        "name": "Irene",
+        "admin": false
+      },
+      {
+        "id": "UQX180XD1",
+        "alias": "n.robert",
+        "name": "Natalia Robert",
+        "admin": false
+      },
+      {
+        "id": "UT19UGMRR",
+        "alias": "v.campbell",
+        "name": "Tori Campbell",
+        "admin": false
+      },
+      {
+        "id": "UTCA7HDS8",
+        "alias": "a.hardvendel",
+        "name": "Albert Hardvendel",
+        "admin": false
+      },
+      {
+        "id": "UTEMGT85V",
+        "alias": "s.sponholtz",
+        "name": "Sebastian Sponholtz",
+        "admin": false
+      },
+      {
+        "id": "UV342CVB7",
+        "alias": "s.advani",
+        "name": "Shailee Advani",
+        "admin": false
+      },
+      {
+        "id": "U010XGVJPB7",
+        "alias": "am.aggarwal",
+        "name": "Amit Aggarwal",
+        "admin": false
+      },
+      {
+        "id": "U010ZEY4W6A",
+        "alias": "d.magalhaes",
+        "name": "Davi Magalhães",
+        "admin": false
+      }
+    ]
+  },
+  "random": {
+    "id": "C04D87V2J",
+    "name": "random",
+    "created": 1429108694,
+    "creator": "U04D87UTL",
+    "topic": "random not work related babble",
+    "purpose": "A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels.",
+    "num_members": 18,
+    "members": [
+      {
+        "id": "U04ESF7NZ",
+        "alias": "francesca",
+        "name": "Francesca Desmarais",
+        "admin": true
+      },
+      {
+        "id": "U04GLEY9A",
+        "alias": "calle",
+        "name": "Calle Nordenskjöld",
+        "admin": true
+      },
+      {
+        "id": "U051HC0RQ",
+        "alias": "simon",
+        "name": "Simon Herzog",
+        "admin": false
+      },
+      {
+        "id": "U0A1N3C2F",
+        "alias": "peterok",
+        "name": "Peter Kuhberg",
+        "admin": true
+      },
+      {
+        "id": "U0A1N7GAV",
+        "alias": "alie",
+        "name": "alie",
+        "admin": false
+      },
+      {
+        "id": "U0B215TBP",
+        "alias": "simona",
+        "name": "simona",
+        "admin": false
+      },
+      {
+        "id": "U0BA7T7SB",
+        "alias": "annelie",
+        "name": "annelie",
+        "admin": false
+      },
+      {
+        "id": "U29KE4S5D",
+        "alias": "jan",
+        "name": "Jan",
+        "admin": false
+      },
+      {
+        "id": "U5CG37Z7T",
+        "alias": "blair_j",
+        "name": "Blair Johnsrude",
+        "admin": false
+      },
+      {
+        "id": "U7FLEC8MP",
+        "alias": "a.farias",
+        "name": "ana",
+        "admin": false
+      },
+      {
+        "id": "U86R0S2F9",
+        "alias": "m.skau",
+        "name": "Martin Skau",
+        "admin": true
+      },
+      {
+        "id": "UAP96S2JC",
+        "alias": "e.fagundez",
+        "name": "Erika Kriznjak Fagundez",
+        "admin": false
+      },
+      {
+        "id": "UC7BRP2QJ",
+        "alias": "j.svenning",
+        "name": "Jesper Svenning",
+        "admin": false
+      },
+      {
+        "id": "UCQ5SG8R2",
+        "alias": "a.singh",
+        "name": "Arunima Singh",
+        "admin": false
+      },
+      {
+        "id": "UDGB29X16",
+        "alias": "m.seyfried",
+        "name": "Monika Seyfried",
+        "admin": false
+      },
+      {
+        "id": "UKABM6S15",
+        "alias": "c.yanardag",
+        "name": "Can Yanardag",
+        "admin": false
+      },
+      {
+        "id": "UNEV0AZNC",
+        "alias": "i.edwards",
+        "name": "Irene",
+        "admin": false
+      },
+      {
+        "id": "UT19UGMRR",
+        "alias": "v.campbell",
+        "name": "Tori Campbell",
+        "admin": false
+      }
+    ]
+  },
+  "website": {
+    "id": "C04DPC0HY",
+    "name": "website",
+    "created": 1429184192,
+    "creator": "U04D87UTL",
+    "topic": "",
+    "purpose": "Everything on ciidconsulting.dk",
+    "num_members": 5,
+    "members": [
+      {
+        "id": "U04ESF7NZ",
+        "alias": "francesca",
+        "name": "Francesca Desmarais",
+        "admin": true
+      },
+      {
+        "id": "U04GLEY9A",
+        "alias": "calle",
+        "name": "Calle Nordenskjöld",
+        "admin": true
+      },
+      {
+        "id": "U5CG37Z7T",
+        "alias": "blair_j",
+        "name": "Blair Johnsrude",
+        "admin": false
+      },
+      "U6JDNQJU8",
+      {
+        "id": "U86R0S2F9",
+        "alias": "m.skau",
+        "name": "Martin Skau",
+        "admin": true
+      }
+    ]
+  },
+  "player": {
+    "id": "C04NMF7VA",
+    "name": "player",
+    "created": 1430985963,
+    "creator": "U04D87UTL",
+    "topic": "",
+    "purpose": "R&amp;D RPi Spotify player",
+    "num_members": 3,
+    "members": [
+      {
+        "id": "U04ESF7NZ",
+        "alias": "francesca",
+        "name": "Francesca Desmarais",
+        "admin": true
+      },
+      {
+        "id": "U0BA7T7SB",
+        "alias": "annelie",
+        "name": "annelie",
+        "admin": false
+      },
+      {
+        "id": "U29KE4S5D",
+        "alias": "jan",
+        "name": "Jan",
+        "admin": false
+      }
+    ]
+  },
+  "events": {
+    "id": "C0LLMSJ5B",
+    "name": "events",
+    "created": 1455009091,
+    "creator": "U0L8S7TUN",
+    "topic": "",
+    "purpose": "Stuff we want/need to go to!",
+    "num_members": 6,
+    "members": [
+      {
+        "id": "U04ESF7NZ",
+        "alias": "francesca",
+        "name": "Francesca Desmarais",
+        "admin": true
+      },
+      {
+        "id": "U04GLEY9A",
+        "alias": "calle",
+        "name": "Calle Nordenskjöld",
+        "admin": true
+      },
+      {
+        "id": "U0B215TBP",
+        "alias": "simona",
+        "name": "simona",
+        "admin": false
+      },
+      {
+        "id": "UAP96S2JC",
+        "alias": "e.fagundez",
+        "name": "Erika Kriznjak Fagundez",
+        "admin": false
+      },
+      {
+        "id": "UDXHVNM4K",
+        "alias": "m.harrestrup",
+        "name": "Mette Harrestrup",
+        "admin": false
+      },
+      {
+        "id": "UKVQM58AW",
+        "alias": "f.azad",
+        "name": "fahmida",
+        "admin": false
+      }
+    ]
+  },
+  "future": {
+    "id": "C1DK59UAC",
+    "name": "future",
+    "created": 1464874598,
+    "creator": "U04ESF7NZ",
+    "topic": "",
+    "purpose": "",
+    "num_members": 3,
+    "members": [
+      {
+        "id": "U04GLEY9A",
+        "alias": "calle",
+        "name": "Calle Nordenskjöld",
+        "admin": true
+      },
+      {
+        "id": "U0B215TBP",
+        "alias": "simona",
+        "name": "simona",
+        "admin": false
+      },
+      {
+        "id": "U29KE4S5D",
+        "alias": "jan",
+        "name": "Jan",
+        "admin": false
+      }
+    ]
+  },
+  "klikkit": {
+    "id": "C1DTNLC3T",
+    "name": "klikkit",
+    "created": 1464947482,
+    "creator": "U04ESF7NZ",
+    "topic": "",
+    "purpose": "",
+    "num_members": 0
+  },
+  "impactevaluation": {
+    "id": "C20TEU475",
+    "name": "impactevaluation",
+    "created": 1471023787,
+    "creator": "U04ESF7NZ",
+    "topic": "",
+    "purpose": "",
+    "num_members": 2,
+    "members": [
+      {
+        "id": "U04ESF7NZ",
+        "alias": "francesca",
+        "name": "Francesca Desmarais",
+        "admin": true
+      },
+      {
+        "id": "UCQ5SG8R2",
+        "alias": "a.singh",
+        "name": "Arunima Singh",
+        "admin": false
+      }
+    ]
+  },
+  "tech": {
+    "id": "C3ZSM9VBK",
+    "name": "tech",
+    "created": 1486122095,
+    "creator": "U3UDQKFC1",
+    "topic": "",
+    "purpose": "Everything from new prototyping tools to being updated in whats going on in technology. With tutorials to get a non-techie to keep up with the tech world cause its normally filled with geeks.",
+    "num_members": 11,
+    "members": [
+      {
+        "id": "U04ESF7NZ",
+        "alias": "francesca",
+        "name": "Francesca Desmarais",
+        "admin": true
+      },
+      {
+        "id": "U04GLEY9A",
+        "alias": "calle",
+        "name": "Calle Nordenskjöld",
+        "admin": true
+      },
+      {
+        "id": "U0A1N3C2F",
+        "alias": "peterok",
+        "name": "Peter Kuhberg",
+        "admin": true
+      },
+      {
+        "id": "U0BA7T7SB",
+        "alias": "annelie",
+        "name": "annelie",
+        "admin": false
+      },
+      {
+        "id": "U29KE4S5D",
+        "alias": "jan",
+        "name": "Jan",
+        "admin": false
+      },
+      {
+        "id": "U7FLEC8MP",
+        "alias": "a.farias",
+        "name": "ana",
+        "admin": false
+      },
+      {
+        "id": "U86R0S2F9",
+        "alias": "m.skau",
+        "name": "Martin Skau",
+        "admin": true
+      },
+      {
+        "id": "UB2Q3NM8X",
+        "alias": "e.marinopoulou",
+        "name": "Electra Marinopoulou",
+        "admin": false
+      },
+      {
+        "id": "UCQ5SG8R2",
+        "alias": "a.singh",
+        "name": "Arunima Singh",
+        "admin": false
+      },
+      {
+        "id": "UDGB29X16",
+        "alias": "m.seyfried",
+        "name": "Monika Seyfried",
+        "admin": false
+      },
+      {
+        "id": "UDXHVNM4K",
+        "alias": "m.harrestrup",
+        "name": "Mette Harrestrup",
+        "admin": false
+      }
+    ]
+  },
+  "life_centred_design": {
+    "id": "C746W75SL",
+    "name": "life_centred_design",
+    "created": 1505755534,
+    "creator": "U15CKUBU2",
+    "topic": "",
+    "purpose": "",
+    "num_members": 12,
+    "members": [
+      {
+        "id": "U04ESF7NZ",
+        "alias": "francesca",
+        "name": "Francesca Desmarais",
+        "admin": true
+      },
+      {
+        "id": "U04GLEY9A",
+        "alias": "calle",
+        "name": "Calle Nordenskjöld",
+        "admin": true
+      },
+      {
+        "id": "U051HC0RQ",
+        "alias": "simon",
+        "name": "Simon Herzog",
+        "admin": false
+      },
+      {
+        "id": "U0A1N3C2F",
+        "alias": "peterok",
+        "name": "Peter Kuhberg",
+        "admin": true
+      },
+      {
+        "id": "U0A1N7GAV",
+        "alias": "alie",
+        "name": "alie",
+        "admin": false
+      },
+      {
+        "id": "U0B215TBP",
+        "alias": "simona",
+        "name": "simona",
+        "admin": false
+      },
+      {
+        "id": "U0BA7T7SB",
+        "alias": "annelie",
+        "name": "annelie",
+        "admin": false
+      },
+      {
+        "id": "U29KE4S5D",
+        "alias": "jan",
+        "name": "Jan",
+        "admin": false
+      },
+      {
+        "id": "U5CG37Z7T",
+        "alias": "blair_j",
+        "name": "Blair Johnsrude",
+        "admin": false
+      },
+      {
+        "id": "UCQ5SG8R2",
+        "alias": "a.singh",
+        "name": "Arunima Singh",
+        "admin": false
+      },
+      {
+        "id": "UDGB29X16",
+        "alias": "m.seyfried",
+        "name": "Monika Seyfried",
+        "admin": false
+      },
+      {
+        "id": "UDXHVNM4K",
+        "alias": "m.harrestrup",
+        "name": "Mette Harrestrup",
+        "admin": false
+      }
+    ]
+  },
+  "mozilla_ip": {
+    "id": "C7AU975GD",
+    "name": "mozilla_ip",
+    "created": 1506672719,
+    "creator": "U5CG37Z7T",
+    "topic": "",
+    "purpose": "chat about the class/project",
+    "num_members": 1,
+    "members": [
+      {
+        "id": "U0A1N3C2F",
+        "alias": "peterok",
+        "name": "Peter Kuhberg",
+        "admin": true
+      }
+    ]
+  },
+  "servicedesign": {
+    "id": "C8DDJLSE8",
+    "name": "servicedesign",
+    "created": 1513087525,
+    "creator": "U0AAC8LV9",
+    "topic": "",
+    "purpose": "Share case studies and reference material of service design",
+    "num_members": 6,
+    "members": [
+      {
+        "id": "U04ESF7NZ",
+        "alias": "francesca",
+        "name": "Francesca Desmarais",
+        "admin": true
+      },
+      {
+        "id": "U051HC0RQ",
+        "alias": "simon",
+        "name": "Simon Herzog",
+        "admin": false
+      },
+      {
+        "id": "U0A1N3C2F",
+        "alias": "peterok",
+        "name": "Peter Kuhberg",
+        "admin": true
+      },
+      {
+        "id": "U5CG37Z7T",
+        "alias": "blair_j",
+        "name": "Blair Johnsrude",
+        "admin": false
+      },
+      {
+        "id": "UCQ5SG8R2",
+        "alias": "a.singh",
+        "name": "Arunima Singh",
+        "admin": false
+      },
+      {
+        "id": "UDXHVNM4K",
+        "alias": "m.harrestrup",
+        "name": "Mette Harrestrup",
+        "admin": false
+      }
+    ]
+  },
+  "adaptation": {
+    "id": "C98DZDGQH",
+    "name": "adaptation",
+    "created": 1518617609,
+    "creator": "U04ESF7NZ",
+    "topic": "",
+    "purpose": "",
+    "num_members": 14,
+    "members": [
+      {
+        "id": "U04ESF7NZ",
+        "alias": "francesca",
+        "name": "Francesca Desmarais",
+        "admin": true
+      },
+      {
+        "id": "U04GLEY9A",
+        "alias": "calle",
+        "name": "Calle Nordenskjöld",
+        "admin": true
+      },
+      {
+        "id": "U051HC0RQ",
+        "alias": "simon",
+        "name": "Simon Herzog",
+        "admin": false
+      },
+      {
+        "id": "U0A1N3C2F",
+        "alias": "peterok",
+        "name": "Peter Kuhberg",
+        "admin": true
+      },
+      {
+        "id": "U0A1N7GAV",
+        "alias": "alie",
+        "name": "alie",
+        "admin": false
+      },
+      {
+        "id": "U0B215TBP",
+        "alias": "simona",
+        "name": "simona",
+        "admin": false
+      },
+      {
+        "id": "U0BA7T7SB",
+        "alias": "annelie",
+        "name": "annelie",
+        "admin": false
+      },
+      {
+        "id": "U5CG37Z7T",
+        "alias": "blair_j",
+        "name": "Blair Johnsrude",
+        "admin": false
+      },
+      {
+        "id": "U7FLEC8MP",
+        "alias": "a.farias",
+        "name": "ana",
+        "admin": false
+      },
+      {
+        "id": "UC7BRP2QJ",
+        "alias": "j.svenning",
+        "name": "Jesper Svenning",
+        "admin": false
+      },
+      {
+        "id": "UCQ5SG8R2",
+        "alias": "a.singh",
+        "name": "Arunima Singh",
+        "admin": false
+      },
+      {
+        "id": "UDXHVNM4K",
+        "alias": "m.harrestrup",
+        "name": "Mette Harrestrup",
+        "admin": false
+      },
+      {
+        "id": "UKABM6S15",
+        "alias": "c.yanardag",
+        "name": "Can Yanardag",
+        "admin": false
+      },
+      {
+        "id": "UNEV0AZNC",
+        "alias": "i.edwards",
+        "name": "Irene",
+        "admin": false
+      }
+    ]
+  },
+  "mozilla_sumo": {
+    "id": "CA4A70G86",
+    "name": "mozilla_sumo",
+    "created": 1523274109,
+    "creator": "UA3HF8FHB",
+    "topic": "",
+    "purpose": "",
+    "num_members": 0
+  },
+  "ciid-cr": {
+    "id": "CB583NLHE",
+    "name": "ciid-cr",
+    "created": 1528800557,
+    "creator": "U15CKUBU2",
+    "topic": "",
+    "purpose": "Project coordination (feasibility study CIID Latam)",
+    "num_members": 2,
+    "members": [
+      {
+        "id": "U0A1N7GAV",
+        "alias": "alie",
+        "name": "alie",
+        "admin": false
+      },
+      {
+        "id": "U0B215TBP",
+        "alias": "simona",
+        "name": "simona",
+        "admin": false
+      }
+    ]
+  },
+  "op-syzygy": {
+    "id": "CDVUSL5P0",
+    "name": "op-syzygy",
+    "created": 1541170833,
+    "creator": "U04ESF7NZ",
+    "topic": "",
+    "purpose": "Operationalising Syzygy",
+    "num_members": 5,
+    "members": [
+      {
+        "id": "U04ESF7NZ",
+        "alias": "francesca",
+        "name": "Francesca Desmarais",
+        "admin": true
+      },
+      {
+        "id": "U0A1N7GAV",
+        "alias": "alie",
+        "name": "alie",
+        "admin": false
+      },
+      {
+        "id": "U0B215TBP",
+        "alias": "simona",
+        "name": "simona",
+        "admin": false
+      },
+      {
+        "id": "UB6UEAB7H",
+        "alias": "m.bottger",
+        "name": "Moises Bottger",
+        "admin": false
+      },
+      {
+        "id": "UCQ5SG8R2",
+        "alias": "a.singh",
+        "name": "Arunima Singh",
+        "admin": false
+      }
+    ]
+  },
+  "uncity": {
+    "id": "CE1PNG3AM",
+    "name": "uncity",
+    "created": 1542116420,
+    "creator": "U04ESF7NZ",
+    "topic": "",
+    "purpose": "",
+    "num_members": 2,
+    "members": [
+      {
+        "id": "U04ESF7NZ",
+        "alias": "francesca",
+        "name": "Francesca Desmarais",
+        "admin": true
+      },
+      {
+        "id": "U0B215TBP",
+        "alias": "simona",
+        "name": "simona",
+        "admin": false
+      }
+    ]
+  },
+  "reading": {
+    "id": "CEK0JGQ1G",
+    "name": "reading",
+    "created": 1543933942,
+    "creator": "UA3HF8FHB",
+    "topic": "",
+    "purpose": "What are we reading and how is it keeping us awake at night – dreading a quickly encroaching tomorrow",
+    "num_members": 4,
+    "members": [
+      {
+        "id": "U04ESF7NZ",
+        "alias": "francesca",
+        "name": "Francesca Desmarais",
+        "admin": true
+      },
+      {
+        "id": "U0BA7T7SB",
+        "alias": "annelie",
+        "name": "annelie",
+        "admin": false
+      },
+      {
+        "id": "UDGB29X16",
+        "alias": "m.seyfried",
+        "name": "Monika Seyfried",
+        "admin": false
+      },
+      {
+        "id": "UKVQM58AW",
+        "alias": "f.azad",
+        "name": "fahmida",
+        "admin": false
+      }
+    ]
+  },
+  "cookpadweeklyupdates": {
+    "id": "CFPGND51B",
+    "name": "cookpadweeklyupdates",
+    "created": 1548433382,
+    "creator": "UCQ5SG8R2",
+    "topic": "",
+    "purpose": "Cookpad weekly updates",
+    "num_members": 1,
+    "members": [
+      {
+        "id": "U0B215TBP",
+        "alias": "simona",
+        "name": "simona",
+        "admin": false
+      }
+    ]
+  },
+  "inno": {
+    "id": "CGKGX1U7Q",
+    "name": "inno",
+    "created": 1551262220,
+    "creator": "UA3HF8FHB",
+    "topic": "",
+    "purpose": "",
+    "num_members": 2,
+    "members": [
+      {
+        "id": "U04ESF7NZ",
+        "alias": "francesca",
+        "name": "Francesca Desmarais",
+        "admin": true
+      },
+      {
+        "id": "UKVQM58AW",
+        "alias": "f.azad",
+        "name": "fahmida",
+        "admin": false
+      }
+    ]
+  },
+  "participation": {
+    "id": "CGRMNC3D2",
+    "name": "participation",
+    "created": 1551960758,
+    "creator": "U04ESF7NZ",
+    "topic": "",
+    "purpose": "Recruiting respondents for projects at CIID",
+    "num_members": 4,
+    "members": [
+      {
+        "id": "U04ESF7NZ",
+        "alias": "francesca",
+        "name": "Francesca Desmarais",
+        "admin": true
+      },
+      {
+        "id": "U86R0S2F9",
+        "alias": "m.skau",
+        "name": "Martin Skau",
+        "admin": true
+      },
+      {
+        "id": "UDXHVNM4K",
+        "alias": "m.harrestrup",
+        "name": "Mette Harrestrup",
+        "admin": false
+      },
+      {
+        "id": "UKVQM58AW",
+        "alias": "f.azad",
+        "name": "fahmida",
+        "admin": false
+      }
+    ]
+  },
+  "incubation": {
+    "id": "CH5Q6T14K",
+    "name": "incubation",
+    "created": 1553176467,
+    "creator": "U4DAE7J4Q",
+    "topic": "",
+    "purpose": "",
+    "num_members": 2,
+    "members": [
+      {
+        "id": "U0B215TBP",
+        "alias": "simona",
+        "name": "simona",
+        "admin": false
+      },
+      {
+        "id": "U29KE4S5D",
+        "alias": "jan",
+        "name": "Jan",
+        "admin": false
+      }
+    ]
+  },
+  "booksandmorebooks": {
+    "id": "CLKDDM6AG",
+    "name": "booksandmorebooks",
+    "created": 1563542470,
+    "creator": "U04ESF7NZ",
+    "topic": "",
+    "purpose": "Reading Group",
+    "num_members": 4,
+    "members": [
+      {
+        "id": "U04ESF7NZ",
+        "alias": "francesca",
+        "name": "Francesca Desmarais",
+        "admin": true
+      },
+      {
+        "id": "U0BA7T7SB",
+        "alias": "annelie",
+        "name": "annelie",
+        "admin": false
+      },
+      {
+        "id": "U5CG37Z7T",
+        "alias": "blair_j",
+        "name": "Blair Johnsrude",
+        "admin": false
+      },
+      {
+        "id": "UCQ5SG8R2",
+        "alias": "a.singh",
+        "name": "Arunima Singh",
+        "admin": false
+      }
+    ]
+  },
+  "remoteupdates": {
+    "id": "CNFRMKMRQ",
+    "name": "remoteupdates",
+    "created": 1569650746,
+    "creator": "U04ESF7NZ",
+    "topic": "",
+    "purpose": "chickity-check-ins for teams and people working outside the building",
+    "num_members": 7,
+    "members": [
+      {
+        "id": "U04ESF7NZ",
+        "alias": "francesca",
+        "name": "Francesca Desmarais",
+        "admin": true
+      },
+      {
+        "id": "U04GLEY9A",
+        "alias": "calle",
+        "name": "Calle Nordenskjöld",
+        "admin": true
+      },
+      {
+        "id": "U0A1N3C2F",
+        "alias": "peterok",
+        "name": "Peter Kuhberg",
+        "admin": true
+      },
+      {
+        "id": "U0B215TBP",
+        "alias": "simona",
+        "name": "simona",
+        "admin": false
+      },
+      {
+        "id": "U0BA7T7SB",
+        "alias": "annelie",
+        "name": "annelie",
+        "admin": false
+      },
+      {
+        "id": "U5CG37Z7T",
+        "alias": "blair_j",
+        "name": "Blair Johnsrude",
+        "admin": false
+      },
+      {
+        "id": "UCQ5SG8R2",
+        "alias": "a.singh",
+        "name": "Arunima Singh",
+        "admin": false
+      }
+    ]
+  },
+  "imagesimages": {
+    "id": "CPPTT0YHW",
+    "name": "imagesimages",
+    "created": 1571834755,
+    "creator": "UNEFMN3BM",
+    "topic": "",
+    "purpose": "",
+    "num_members": 0
+  },
+  "p-enelx-circularity": {
+    "id": "CSTP235UK",
+    "name": "p-enelx-circularity",
+    "created": 1580123710,
+    "creator": "U5CG37Z7T",
+    "topic": "",
+    "purpose": "“P” denotes “project.”  This is where we discuss the Enel X visualizing project",
+    "num_members": 3,
+    "members": [
+      {
+        "id": "U0B215TBP",
+        "alias": "simona",
+        "name": "simona",
+        "admin": false
+      },
+      {
+        "id": "U0BA7T7SB",
+        "alias": "annelie",
+        "name": "annelie",
+        "admin": false
+      },
+      {
+        "id": "U5CG37Z7T",
+        "alias": "blair_j",
+        "name": "Blair Johnsrude",
+        "admin": false
+      }
+    ]
+  },
+  "p-cookpadsdgjapan": {
+    "id": "CT9M7FU81",
+    "name": "p-cookpadsdgjapan",
+    "created": 1580910592,
+    "creator": "UCQ5SG8R2",
+    "topic": "",
+    "purpose": "Educational toolkit to learn SDGs through cooking",
+    "num_members": 5,
+    "members": [
+      {
+        "id": "U0B215TBP",
+        "alias": "simona",
+        "name": "simona",
+        "admin": false
+      },
+      {
+        "id": "U5CG37Z7T",
+        "alias": "blair_j",
+        "name": "Blair Johnsrude",
+        "admin": false
+      },
+      {
+        "id": "UC7BRP2QJ",
+        "alias": "j.svenning",
+        "name": "Jesper Svenning",
+        "admin": false
+      },
+      {
+        "id": "UKABM6S15",
+        "alias": "c.yanardag",
+        "name": "Can Yanardag",
+        "admin": false
+      },
+      {
+        "id": "UV342CVB7",
+        "alias": "s.advani",
+        "name": "Shailee Advani",
+        "admin": false
+      }
+    ]
+  },
+  "ciid_social_media": {
+    "id": "CTFQU5M96",
+    "name": "ciid_social_media",
+    "created": 1580732779,
+    "creator": "UGUTFA2RE",
+    "topic": "",
+    "purpose": "This is a dedicated channel to share any projects, design news, upcoming events, etc. that you think are interesting and share-worthy for our CIID social media accounts. As thought leaders let’s up our social media game together!",
+    "num_members": 24,
+    "members": [
+      {
+        "id": "U04ESF7NZ",
+        "alias": "francesca",
+        "name": "Francesca Desmarais",
+        "admin": true
+      },
+      {
+        "id": "U04GLEY9A",
+        "alias": "calle",
+        "name": "Calle Nordenskjöld",
+        "admin": true
+      },
+      {
+        "id": "U051HC0RQ",
+        "alias": "simon",
+        "name": "Simon Herzog",
+        "admin": false
+      },
+      {
+        "id": "U0A1N3C2F",
+        "alias": "peterok",
+        "name": "Peter Kuhberg",
+        "admin": true
+      },
+      {
+        "id": "U0A1N7GAV",
+        "alias": "alie",
+        "name": "alie",
+        "admin": false
+      },
+      {
+        "id": "U0B215TBP",
+        "alias": "simona",
+        "name": "simona",
+        "admin": false
+      },
+      {
+        "id": "U0BA7T7SB",
+        "alias": "annelie",
+        "name": "annelie",
+        "admin": false
+      },
+      {
+        "id": "U5CG37Z7T",
+        "alias": "blair_j",
+        "name": "Blair Johnsrude",
+        "admin": false
+      },
+      {
+        "id": "U7FLEC8MP",
+        "alias": "a.farias",
+        "name": "ana",
+        "admin": false
+      },
+      {
+        "id": "U86R0S2F9",
+        "alias": "m.skau",
+        "name": "Martin Skau",
+        "admin": true
+      },
+      {
+        "id": "UAP96S2JC",
+        "alias": "e.fagundez",
+        "name": "Erika Kriznjak Fagundez",
+        "admin": false
+      },
+      {
+        "id": "UB2Q3NM8X",
+        "alias": "e.marinopoulou",
+        "name": "Electra Marinopoulou",
+        "admin": false
+      },
+      {
+        "id": "UB6UEAB7H",
+        "alias": "m.bottger",
+        "name": "Moises Bottger",
+        "admin": false
+      },
+      {
+        "id": "UCQ5SG8R2",
+        "alias": "a.singh",
+        "name": "Arunima Singh",
+        "admin": false
+      },
+      {
+        "id": "UDA5MDPPA",
+        "alias": "e.casciano",
+        "name": "Elisa Casciano",
+        "admin": false
+      },
+      {
+        "id": "UDGB29X16",
+        "alias": "m.seyfried",
+        "name": "Monika Seyfried",
+        "admin": false
+      },
+      {
+        "id": "UDXHVNM4K",
+        "alias": "m.harrestrup",
+        "name": "Mette Harrestrup",
+        "admin": false
+      },
+      {
+        "id": "UGUTFA2RE",
+        "alias": "s.haaramaki",
+        "name": "Sanna Isabella Haaramäki",
+        "admin": false
+      },
+      {
+        "id": "UKABM6S15",
+        "alias": "c.yanardag",
+        "name": "Can Yanardag",
+        "admin": false
+      },
+      {
+        "id": "UKVQM58AW",
+        "alias": "f.azad",
+        "name": "fahmida",
+        "admin": false
+      },
+      {
+        "id": "UMBH7R8JD",
+        "alias": "p.mau",
+        "name": "pernille",
+        "admin": false
+      },
+      {
+        "id": "UNEV0AZNC",
+        "alias": "i.edwards",
+        "name": "Irene",
+        "admin": false
+      },
+      {
+        "id": "UQX180XD1",
+        "alias": "n.robert",
+        "name": "Natalia Robert",
+        "admin": false
+      },
+      {
+        "id": "UT19UGMRR",
+        "alias": "v.campbell",
+        "name": "Tori Campbell",
+        "admin": false
+      }
+    ]
+  },
+  "p-takeda-nicu": {
+    "id": "CTNTL3MG8",
+    "name": "p-takeda-nicu",
+    "created": 1581028749,
+    "creator": "UCQ5SG8R2",
+    "topic": "",
+    "purpose": "Subcutaneous prototyping",
+    "num_members": 3,
+    "members": [
+      {
+        "id": "U04ESF7NZ",
+        "alias": "francesca",
+        "name": "Francesca Desmarais",
+        "admin": true
+      },
+      {
+        "id": "U04GLEY9A",
+        "alias": "calle",
+        "name": "Calle Nordenskjöld",
+        "admin": true
+      },
+      {
+        "id": "UCQ5SG8R2",
+        "alias": "a.singh",
+        "name": "Arunima Singh",
+        "admin": false
+      }
+    ]
+  },
+  "remote_design_education_discussion": {
+    "id": "CV4EW2EQJ",
+    "name": "remote_design_education_discussion",
+    "created": 1584374901,
+    "creator": "U0A1N3C2F",
+    "topic": "",
+    "purpose": "",
+    "num_members": 1,
+    "members": [
+      {
+        "id": "U0A1N3C2F",
+        "alias": "peterok",
+        "name": "Peter Kuhberg",
+        "admin": true
+      }
+    ]
+  },
+  "platforms-and-resources": {
+    "id": "CV6GYN0E6",
+    "name": "platforms-and-resources",
+    "created": 1584443138,
+    "creator": "UB2Q3NM8X",
+    "topic": "",
+    "purpose": "Suggestions, research, questions on new or already-in-use platforms for everything CIID.",
+    "num_members": 10,
+    "members": [
+      {
+        "id": "U04ESF7NZ",
+        "alias": "francesca",
+        "name": "Francesca Desmarais",
+        "admin": true
+      },
+      {
+        "id": "U0A1N3C2F",
+        "alias": "peterok",
+        "name": "Peter Kuhberg",
+        "admin": true
+      },
+      {
+        "id": "U29KE4S5D",
+        "alias": "jan",
+        "name": "Jan",
+        "admin": false
+      },
+      {
+        "id": "U7FLEC8MP",
+        "alias": "a.farias",
+        "name": "ana",
+        "admin": false
+      },
+      {
+        "id": "U86R0S2F9",
+        "alias": "m.skau",
+        "name": "Martin Skau",
+        "admin": true
+      },
+      {
+        "id": "UAP96S2JC",
+        "alias": "e.fagundez",
+        "name": "Erika Kriznjak Fagundez",
+        "admin": false
+      },
+      {
+        "id": "UB2Q3NM8X",
+        "alias": "e.marinopoulou",
+        "name": "Electra Marinopoulou",
+        "admin": false
+      },
+      {
+        "id": "UDXHVNM4K",
+        "alias": "m.harrestrup",
+        "name": "Mette Harrestrup",
+        "admin": false
+      },
+      {
+        "id": "UGUTFA2RE",
+        "alias": "s.haaramaki",
+        "name": "Sanna Isabella Haaramäki",
+        "admin": false
+      },
+      {
+        "id": "UNEV0AZNC",
+        "alias": "i.edwards",
+        "name": "Irene",
+        "admin": false
+      }
+    ]
+  },
+  "life-centered-booklet": {
+    "id": "CV8E1SQTV",
+    "name": "life-centered-booklet",
+    "created": 1584456269,
+    "creator": "UCQ5SG8R2",
+    "topic": "",
+    "purpose": "",
+    "num_members": 4,
+    "members": [
+      {
+        "id": "U04ESF7NZ",
+        "alias": "francesca",
+        "name": "Francesca Desmarais",
+        "admin": true
+      },
+      {
+        "id": "U04GLEY9A",
+        "alias": "calle",
+        "name": "Calle Nordenskjöld",
+        "admin": true
+      },
+      {
+        "id": "UCQ5SG8R2",
+        "alias": "a.singh",
+        "name": "Arunima Singh",
+        "admin": false
+      },
+      {
+        "id": "UNEV0AZNC",
+        "alias": "i.edwards",
+        "name": "Irene",
+        "admin": false
+      }
+    ]
+  },
+  "corona-open-research": {
+    "id": "C01027P4TMW",
+    "name": "corona-open-research",
+    "created": 1584351102,
+    "creator": "U04ESF7NZ",
+    "topic": "",
+    "purpose": "",
+    "num_members": 5,
+    "members": [
+      {
+        "id": "U0B215TBP",
+        "alias": "simona",
+        "name": "simona",
+        "admin": false
+      },
+      {
+        "id": "U86R0S2F9",
+        "alias": "m.skau",
+        "name": "Martin Skau",
+        "admin": true
+      },
+      {
+        "id": "UCQ5SG8R2",
+        "alias": "a.singh",
+        "name": "Arunima Singh",
+        "admin": false
+      },
+      {
+        "id": "UDXHVNM4K",
+        "alias": "m.harrestrup",
+        "name": "Mette Harrestrup",
+        "admin": false
+      },
+      {
+        "id": "UNEV0AZNC",
+        "alias": "i.edwards",
+        "name": "Irene",
+        "admin": false
+      }
+    ]
+  },
+  "mirogroup-test1": {
+    "id": "C0105EA9DT5",
+    "name": "mirogroup-test1",
+    "created": 1584810340,
+    "creator": "U04ESF7NZ",
+    "topic": "Miro: <https://bit.ly/3a9iMOv>\n\nHangout: <https://bit.ly/2U6O8j8>",
+    "purpose": "",
+    "num_members": 3,
+    "members": [
+      {
+        "id": "U04ESF7NZ",
+        "alias": "francesca",
+        "name": "Francesca Desmarais",
+        "admin": true
+      },
+      {
+        "id": "UCQ5SG8R2",
+        "alias": "a.singh",
+        "name": "Arunima Singh",
+        "admin": false
+      },
+      "U010GUDHU7P"
+    ]
+  },
+  "all_at_ciid_20": {
+    "id": "CUYJBN9K5",
+    "name": "all_at_ciid_20",
+    "created": 1584020594,
+    "creator": "U0B8J8HAT",
+    "topic": "",
+    "purpose": "",
+    "num_members": 51,
+    "members": [
+      {
+        "id": "U04GLEY9A",
+        "alias": "calle",
+        "name": "Calle Nordenskjöld",
+        "admin": true
+      },
+      {
+        "id": "U0B215TBP",
+        "alias": "simona",
+        "name": "simona",
+        "admin": false
+      },
+      {
+        "id": "UDXHVNM4K",
+        "alias": "m.harrestrup",
+        "name": "Mette Harrestrup",
+        "admin": false
+      },
+      {
+        "id": "UTEMGT85V",
+        "alias": "s.sponholtz",
+        "name": "Sebastian Sponholtz",
+        "admin": false
+      },
+      "U099VHLKB",
+      "U0B8J8HAT",
+      "U0BA64XPF",
+      "U0BA9PJM7",
+      "U0BFVUUM8",
+      "U0K7D44N7",
+      "U0N8WTVCK",
+      "U2VG9M8E9",
+      "U2YRSPT7C",
+      "U31FNQY74",
+      "U6UEGU6AE",
+      "U79L1M4M8",
+      "U842FNS3D",
+      "UCCNTNNAY",
+      "UD5ELRPMF",
+      "UD6HLBSUT",
+      "UH5M65MT4",
+      "UMTV4MMH8",
+      "UMTV4QKM0",
+      "UMTV4R9D0",
+      "UMTV4SYAW",
+      "UMTV4TVBL",
+      "UMV8TKPM1",
+      "UMV8TPUQ3",
+      "UMV8TU3J7",
+      "UN0AJPP41",
+      "UN0AJQ397",
+      "UN68TP292",
+      "UN68TRW5S",
+      "UN68TTAUU",
+      "UN68TU7LL",
+      "UN6NG3GAC",
+      "UN8GZ51FT",
+      "UN8JHBGK1",
+      "UT2JRE83T",
+      "UT933CDQA",
+      "UTA4PDJHG",
+      "UTBE3S2RH",
+      "UTBE3U143",
+      "UTBE3UJSX",
+      "UTNTVUBGQ",
+      "UTNUG5ZV3",
+      "UTNUG6FQV",
+      "UTQPUBQEB",
+      "UTR4N1ME2",
+      "UUFAJ2EH3",
+      "UULLDJG0Y"
+    ]
+  },
+  "sci-fi": {
+    "id": "C0107PB58SV",
+    "name": "sci-fi",
+    "created": 1584911572,
+    "creator": "UMTV4MMH8",
+    "topic": "",
+    "purpose": "",
+    "num_members": 12,
+    "members": [
+      "U0LQV7CD9",
+      "U15HU4ZB2",
+      "U98E41LS0",
+      "UD7GCNSF9",
+      "UD81EPNQH",
+      "UEQQVLK50",
+      "UMTV4MMH8",
+      "UN8JHBGK1",
+      "UT933CDQA",
+      "UTBE3S2RH",
+      "UTNUG6FQV",
+      {
+        "id": "UDXHVNM4K",
+        "alias": "m.harrestrup",
+        "name": "Mette Harrestrup",
+        "admin": false
+      }
+    ]
+  }
+}

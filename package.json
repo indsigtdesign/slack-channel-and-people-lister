@@ -1,0 +1,24 @@
+{
+  "name": "slack-channel-and-people-lister",
+  "version": "1.0.0",
+  "description": "names pretty much explains it",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indsigtdesign/slack-channel-and-people-lister.git"
+  },
+  "author": "PeterOK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indsigtdesign/slack-channel-and-people-lister/issues"
+  },
+  "homepage": "https://github.com/indsigtdesign/slack-channel-and-people-lister#readme",
+  "dependencies": {
+    "@slack/bolt": "^2.0.0",
+    "@slack/events-api": "^2.3.2",
+    "@slack/web-api": "^5.8.0"
+  }
+}

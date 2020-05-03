@@ -1,0 +1,124 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: DINMittelschriftStd;
+	text-rendering: optimizeLegibility;
+}
+
+path{
+	fill: none;
+	stroke: black;
+}
+
+#chart {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 50vw;
+	height: 100vh;
+}
+
+#info{
+	display: block;
+	position: absolute;
+	top: 0;
+	right: 0;
+	background-color: #e6e6e6;
+	width: 50vw;
+	height: 100vh;
+}
+
+#info h3{
+	margin-top: 20px;
+	margin-left: 20px;  
+}
+
+#content{
+	padding: 20px 0px 0px 20px;
+    height: 90%;
+}
+
+#channel_name{
+	padding-bottom: 5px;
+	border-bottom: 1px solid black;
+}
+
+#theContent p{
+	margin-top: 10px; 
+}
+
+#theMembers{
+	overflow: auto;
+	height: 58%;
+}
+
+#theContent {
+    height: 320px;
+}
+
+.member{
+	margin-top: 10px;
+    padding: 5px;
+    background-color: white;
+}
+
+.member p{
+	width: 33%;
+    display: inline-block;
+}
+
+#gen-chart{
+	display: none
+}
+
+#select{
+	width: 100vw;
+	height: 100vh;
+	display: block;
+}
+
+#intro{
+	text-align: center;
+	padding-top: 20vh; 
+}
+
+#idp{
+	display: inline-block;
+    text-align: center;
+    font-size: 8em;
+    width: 30vw;
+    border: #8c78b9 5px solid;
+    background-color: white;
+    margin-top: 100px;
+    margin-left: calc(50vw - 35vw);
+    cursor: pointer;
+}
+
+#idp:hover{
+	border: none;
+	background-color: #8c78b9;
+	padding: 5px;
+}
+
+#ciid{
+	display: inline-block;
+    text-align: center;
+    font-size: 8em;
+    width: 30vw;
+    border: #f3f3f3 5px solid;
+    background-color: white;
+    margin-top: 100px;
+    margin-left: calc(50vw - 40vw);
+    cursor: pointer;
+}
+
+#ciid:hover{
+	border: none;
+	background-color: #f3f3f3;
+	padding: 5px;
+}
+
+a{
+	color: black;
+}
